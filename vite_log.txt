@@ -1,0 +1,18 @@
+
+> algolearn-temp@0.0.0 dev
+> vite
+
+
+  VITE v8.0.0  ready in 316 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+3:15:07 AM [vite] (client) hmr update /src/index.css, /src/pages/IDE.jsx, /src/pages/IDEWorkspace.jsx
+3:37:40 AM [vite] (client) hmr update /src/pages/Quizzes.jsx, /src/index.css
+4:00:13 AM [vite] (client) hmr update /src/pages/LLDQuestions.jsx, /src/index.css
+12:00:46 PM [vite] (client) hmr update /src/pages/EventsHackathons.jsx, /src/index.css
+12:10:46 PM [vite] (client) hmr update /src/pages/EventsHackathons.jsx, /src/index.css
+12:35:35 PM [vite] (client) hmr update /src/pages/LanguageFundamentals.jsx, /src/index.css
+6:34:07 PM [vite] (client) hmr update /src/pages/StudyPlanner.jsx, /src/index.css
+6:37:10 PM [vite] (client) hmr update /src/pages/StudyPlanner.jsx, /src/index.css
+6:43:07 PM [vite] (client) hmr update /src/pages/StudyPlanner.jsx, /src/index.css
